@@ -1,6 +1,6 @@
 # Time-Series-Analysis-and-Forecasting-for-Stock-Market
 
-# Time Series Analysis and Forecasting for Stock Market
+
 
 ## Project Overview
 This project analyzes historical stock market data and predicts future stock prices using time series forecasting techniques. It focuses on identifying trends, seasonality, and patterns in stock prices.
